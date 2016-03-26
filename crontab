@@ -1,0 +1,2 @@
+# keep pppoe connecting
+* * * * * /bin/sh /etc/cron.d/pppoe-keep_watchdog.sh
